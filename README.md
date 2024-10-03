@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do GustavinhoDantas 😁
+## Bem-vindo(a) ao perfil do Gustavo Dantas 😁
 
  <div>
    <a href="https://github.com/GustavinhoDantas">
