@@ -2,7 +2,7 @@
 
 <div>
    <a href="https://github.com/GustavinhoDantas">
-   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GustavinhoDantas&theme=dark" alt="Contribuições recentes">
+   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GustavinhoDantas&theme=dark"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavinhoDantas&layout=compact&langs_count=6&theme=dark"/>
 </div>
 
