@@ -21,3 +21,11 @@
   <a href="https://www.linkedin.com/in/gustavodantas05" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:dantasgustavo933@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+<img
+   align="left"
+   alt="activity-graph graph" 
+   height="289"
+   style="padding-top: 10px;"
+   src="https://github-readme-activity-graph.vercel.app/graph?username=GustavinhoDantas&radius=16&theme=github-dark&area=true&order=5&hide_title=false&hide_border=true"
+ />
