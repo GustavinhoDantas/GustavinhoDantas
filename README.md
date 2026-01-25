@@ -1,18 +1,23 @@
-# Bem-vindo(a) ao meu perfil! Sou o Gustavo Dantas 🚀
+# Hi there! I'm Gustavo Dantas 🚀
 
-<div>
-   <a href="https://github.com/GustavinhoDantas">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavinhoDantas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavinhoDantas&layout=compact&langs_count=6&theme=dark"/>
-</div>
+🎯 **Data Analyst with an Engineering Background**
 
+I am a Data Analyst with hands-on experience in data analysis, automation, and dashboard development, combining an engineering mindset with data-driven problem solving.
+
+Currently working with **Python, SQL, Databricks, Power BI, and Metabase**, supporting data-driven decision-making in a corporate environment. My background in **Engineering and Mechatronics** allows me to approach data challenges in a structured, analytical, and optimization-oriented way.
+
+---
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="SQL" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png">
-  <img align="center" alt="Arduino" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+  <img align="center" alt="Python" height="40" width="50"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" >
+  <img align="center" alt="SQL" height="40" width="50"
+    src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png" >
+  <img align="center" alt="PySpark" height="40" width="50"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" >
+  <img align="center" alt="Metabase" height="40" width="40"
+    src="https://www.vectorlogo.zone/logos/metabase/metabase-icon.svg" >
+   <img align="center" alt="Databricks" height="100" width="110"
+    src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" >
 </div>
 
 ---
